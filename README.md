@@ -16,3 +16,4 @@ A lightweight Flask and MySQL web application for managing farmer registrations 
    DB_PASSWORD=your_mysql_password
    DB_NAME=smart_agri
 5. **The run the app using `python app.py`**
+6. **Open your browser and go to: http://127.0.0.1:5000**
